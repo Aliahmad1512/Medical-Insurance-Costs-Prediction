@@ -1,4 +1,4 @@
-# Medical | Insurance | Costs | Prediction
+# Medical | Insurance | Costs | Prediction | Case Study
 ## Many factors that affect how much you pay for health insurance are not within your control. Here are some factors that affect how much health insurance premiums cost 
 * age : age of primary beneficiary  
 * sex : insurance contractor gender, female, male  
